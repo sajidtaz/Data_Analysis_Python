@@ -1,0 +1,6 @@
+# Ignore the virtual environment
+ecom/
+
+# Ignore the heavy dataset CSV files
+*.csv
+
